@@ -132,6 +132,7 @@
     <ClInclude Include="Header.h" />
     <ClInclude Include="Hero.h" />
     <ClInclude Include="Hui maksuma.h" />
+    <ClInclude Include="Main.h" />
     <ClInclude Include="Player.h" />
     <ClInclude Include="PlayerManager.h" />
   </ItemGroup>
