@@ -126,6 +126,7 @@
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AboutPlayer.h" />
     <ClInclude Include="Header.h" />
     <ClInclude Include="Hui maksuma.h" />
     <ClInclude Include="PlayerManager.h" />
