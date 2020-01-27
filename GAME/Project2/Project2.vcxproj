@@ -126,9 +126,13 @@
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AboutHero.h" />
     <ClInclude Include="AboutPlayer.h" />
+    <ClInclude Include="GameManager.h" />
     <ClInclude Include="Header.h" />
+    <ClInclude Include="Hero.h" />
     <ClInclude Include="Hui maksuma.h" />
+    <ClInclude Include="Player.h" />
     <ClInclude Include="PlayerManager.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
